@@ -5,15 +5,6 @@ I'm **James**, a passionate Roblox exploiter and the creator of this Hub. I buil
 
 This Hub is designed to be **simple**, **powerful**, and **constantly evolving** — I'm dedicated to improving it **every weekend** with new features, bug fixes, and scripts for your favorite games.
 
-
-## 💻 All the Devs who work on this
-
-James (@jamessnewest_)
-
-zzzz (@2qp0)
-
-Pablo (@pablo303870)
-
 ## 🔄 Updates
 
 We actively update the script **every weekend**, so be sure to check back frequently for new content, improvements, and exclusive tools.
